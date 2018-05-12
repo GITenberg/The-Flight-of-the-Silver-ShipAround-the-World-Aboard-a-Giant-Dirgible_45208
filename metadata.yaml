@@ -1,0 +1,25 @@
+_repo: The-Flight-of-the-Silver-ShipAround-the-World-Aboard-a-Giant-Dirgible_45208
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45208-h/images/cover.jpg
+creator:
+  author:
+    agent_name: McAlister, Hugh
+    gutenberg_agent_id: '43151'
+    url: http://www.gutenberg.org/2009/agents/43151
+description: ''
+gutenberg_issued: '2014-03-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45208'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Voyages around the world -- Juvenile fiction'
+- !lcsh 'Airships -- Juvenile fiction'
+- !lcc 'PZ'
+title: 'The Flight of the Silver Ship: Around the World Aboard a Giant Dirgible'
+url: http://www.gutenberg.org/ebooks/45208
